@@ -83,7 +83,7 @@
       <file leaf-file-name="Solver.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/no/kodedojo/sudoko/Solver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="7" selection-start="167" selection-end="167" vertical-scroll-proportion="0.28992248">
+            <state line="4" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.105426356">
               <folding />
             </state>
           </provider>
@@ -501,7 +501,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/no/kodedojo/sudoko/Solver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="167" selection-end="167" vertical-scroll-proportion="0.28992248">
+        <state line="4" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.105426356">
           <folding />
         </state>
       </provider>
